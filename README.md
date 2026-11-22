@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261121/zesty-pika-87/news-image-20261121-v3-entry/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 [![reward](https://make.fun/badge/news-image-20261121/zesty-pika-87/news-image-20261121-v3-entry/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
-A single newspaper front page that condenses the whole world's news from Saturday 21 November 2026 into one image: 35 stories drawn from that day alone, brought to life by 13 layered illustrations, a band of six checked numbers across the top, and a world map with numbered pins that line up with the numbered index below it.
+A single newspaper front page that condenses the whole world's news from Saturday 21 November 2026 into one image: 35 stories drawn from that day alone, brought to life by 13 layered illustrations, a band of six checked numbers across the top, and a world map whose numbered pins line up with the numbered index below it.
 
 - The masthead is the date itself — **Saturday 21 November 2026** — set large in serif type, with no newspaper name above it.
 - The three lead stories are Iran's strikes on US bases in Bahrain, the capture of "El Chapo Isidro" in Mexico, and the COP31 climate talks in Antalya running past their deadline without a deal.
