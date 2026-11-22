@@ -13,5 +13,7 @@ figures, and a world map whose numbered pins match the numbered index.
   of "El Chapo Isidro", and the COP31 climate talks running past deadline
   in Antalya with no deal.
 - Every story is from 21 November 2026 only — see the DATE CHECK footer.
+- The map's pins are numbered to match the index: pin 14 sits where
+  story 14 happened, and so on for all 35 stories.
 - `draw.py` draws the page with Pillow (deterministic, no network);
   `main.ts` copies the shipped `entry.png` to the output directory.

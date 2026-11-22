@@ -3,7 +3,8 @@
 // program copies it to the output directory the grader provides.
 // The shipped image is the whole entry: 35 stories from 21 November
 // 2026, 13 layered illustrations, and a world map whose numbered pins
-// match the numbered index. Node 22, standard library only; no network,
+// match the numbered index (pin N marks where story N happened).
+// Node 22, standard library only; no network,
 // no clock, so both runs of the program write the same bytes.
 //
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for
